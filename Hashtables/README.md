@@ -4,7 +4,7 @@
 * It uses a **hash function** to compute the index into an array of buckets, where the value is stored.
 * **Collisions:** Ideally, each value should be assigned to a unique buckets but most hash functions are imperfect and generate one key for more than one value.
 * Allows insertion, deletion and find in amortized **constant** time. In many cases better than a tree or other form of table.
-* Used in database indexing and caching.
+* Used in database indexing, cryptograpgy and caching.
 
 ![](https://alpingi.com/wp-content/uploads/2018/02/AMCAT-Hash-Tables-Questions.jpg)
 
