@@ -4,6 +4,7 @@ left -> right -> root
 
 Deleting the nodes from a tree
 Visits leaves before the root
+Similar to topological sort on a tree
 */
 
 TreeNode{
