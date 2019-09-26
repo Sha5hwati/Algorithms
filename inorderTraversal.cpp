@@ -4,6 +4,9 @@ left -> root -> right
 
 In a BST, inorder traversal gives a sort array
 The prev element is always less than the curr element
+
+Time complexity: O(n) n: number of nodes
+Space: O(h) h: height of the tree
 */
 
 TreeNode{

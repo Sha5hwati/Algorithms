@@ -1,6 +1,9 @@
 /*
 Preorder Traversal of binary tree
 root -> left -> right
+
+Time complexity: O(n) n: number of nodes
+Space: O(h) h: height of the tree
 */
 
 TreeNode{

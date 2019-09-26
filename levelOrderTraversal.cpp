@@ -4,6 +4,9 @@ Similar to BFS on a tree
 On a binary tree both DFS and BFS gives the shortest path
 Since we are always going downwards, we do not need
 a visited list
+
+Time complexity: O(n) n: number of nodes
+Space: O(h) h: height of the tree
 */
 
 TreeNode{

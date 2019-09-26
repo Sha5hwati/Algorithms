@@ -6,6 +6,9 @@ Deleting the nodes from a tree
 Visits leaves before the root
 Similar to topological sort on a tree
 A bottom-up approach
+
+Time complexity: O(n) n: number of nodes
+Space: O(h) h: height of the tree
 */
 
 TreeNode{

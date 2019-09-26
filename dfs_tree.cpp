@@ -2,6 +2,9 @@
 DFS on binary tree
 It is similar to preorder traversal on trees
 A top-down approach
+
+Time complexity: O(n) n: number of nodes
+Space: O(h) h: height of the tree
 */
 
 //Recursive
