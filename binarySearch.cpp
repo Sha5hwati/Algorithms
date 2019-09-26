@@ -1,4 +1,12 @@
 /*
+STL lower_bound: first value greater than the target
+STL upper_bound: first_value less than the target
+used with sorted vectors, maps, sets
+*/
+std::lower_bound(arr.begin(), arr.end(), target);
+std::upper_bound(arr.begin(), arr.end(), target);
+
+/*
 Stopping condition is when start > end
 Good for finding a specific value
 */
