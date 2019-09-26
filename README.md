@@ -1,4 +1,4 @@
-- Binary Tree
+- Binary Search Tree
 - Tree traversal
   - Preorder traversal
   - Inorder traversal
