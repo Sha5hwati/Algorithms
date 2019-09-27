@@ -1,3 +1,7 @@
+- Arrays, Linked Lists, and Strings
+- Stacks, Queues, Priority queue
+- Maps, hash tables, sets
+- Binary Search
 - Binary Search Tree
 - Tree traversal
   - Preorder traversal
@@ -5,19 +9,19 @@
   - Postorder traversal
   - Level Order traversal
   - DFS
-  - top-down/bottom-up
+  - Top-down/bottom-up
 - Graph traversal
   - DFS
   - BFS
   - Union-Find
   - Topological sort
+  - Tries
 - Dynamic Programming
   - Kadane's algorithm
   - Knapsack problem
+  - Top-down/bottom-up
 - Greedy algorithms
   - Activity selection
   - Task Scheduling
 - Backtracking & Recursion
-- Arrays, Linked Lists, and Strings
-- Stacks, Queues, Priority queue
-- Maps, hash tables, sets
+- Miscelleneous

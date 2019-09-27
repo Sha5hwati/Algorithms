@@ -6,6 +6,9 @@ level before exploring the neighbours
 Used to find the shortest path between
 two nodes
 
+We can have multiple start points in the
+queue
+
 Time complexity: O(E+V) E: edges V: vertices
 Space complexity: O(E+V)
 */
@@ -42,3 +45,4 @@ void shortestPath(vector<vector<int>> &graph, int node, vector<int> &dist){
                 q.push({adj, curr.second+1});
     }
 }
+

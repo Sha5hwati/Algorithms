@@ -65,7 +65,7 @@ bool search(TreeNode* root, int target){
         else root = root->right;
     }
     
-    return root == nullptr;
+    return root != nullptr;
 }
 
 // Finding the diameter of a tree
