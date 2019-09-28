@@ -46,4 +46,8 @@ is generally small. Because of this it remains efficient.
 	* Double hashing = new position by another hash function.
 * It saves memory.
 
+### Look up, Insert and Delete runtime
+Best case: O(1) (good hash function) \
+worst case: O(n) 
+
 
