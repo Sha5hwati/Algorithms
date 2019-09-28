@@ -1,4 +1,5 @@
-- Arrays, Linked Lists, and Strings
+- Arrays, Sorting, and Strings
+- Linked lists
 - Stacks, Queues, Priority queue
 - Maps, hash tables, sets
 - Binary Search
