@@ -10,7 +10,7 @@ Stable sort: Retains the order of duplicates
         In case of sorting objects with
         multiple save features, stable sort can
         be used to sort it with a different feature
-        
+----  
 * Merge Sort:
 - Divide and conquer strategy
 - Recursively sort each half
@@ -22,6 +22,7 @@ Space - O(N)
 Stable - Yes
 Inplace - No
 
+----
 * Quick Sort:
 - Two pointer swapping
 - Select a pivot(usually the middle/last element)
@@ -37,6 +38,7 @@ Space: O(logN) = stack calls, other than that O(1)
 Stable: No
 Inplace: Yes
 
+----
 * Insertion sort:
 - We take a element from unsorted list and insert them
   into their sorted list position
@@ -49,6 +51,7 @@ Space: O(1)
 Stable: Yes
 Inplace: Yes
 
+----
 * Selection Sort:
 - Finding the minimum value in the rest of the list and 
   swapping it with the value in front of the list
@@ -57,7 +60,8 @@ Time: Best - O(N^2), Worst - O(N^2)
 Stable: No
 Inplace: Yes
 
-Radix Sort:
+----
+* Radix Sort:
 - Helpful when the numbers that we are sorting is bounded
 - Grouping the lists by digits and looping through the 
   digits in some order
@@ -69,7 +73,8 @@ Space: O(K)
 Stable: Yes, if we go through the digits from right to left (<--)
 Inplace: No
 
-Counting Sort:
+----
+* Counting Sort:
 - Helpful when the numbers that we are sorting is bounded
 - Grouping the lists by the counts of the value
 
