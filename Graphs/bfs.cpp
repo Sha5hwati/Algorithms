@@ -11,6 +11,10 @@ queue
 
 Time complexity: O(E+V) E: edges V: vertices
 Space complexity: O(E+V)
+
+You do not need visited when:
+- There are no cycles in the graph
+- We need to visit the node multiple times
 */
 
 void bfs(vector<vector<int>> &graph, int node, vector<bool> &visited){
