@@ -3,6 +3,8 @@
 * Implements an associative array abstract data structure that can map keys to values.
 * It uses a **hash function** to compute the index into an array of buckets, where the value is stored.
 * **Collisions:** Ideally, each value should be assigned to a unique buckets but most hash functions are imperfect and generate one key for more than one value.
+* Hash tables can be implemented using linked lists because of collisions as you can easily insert elements.
+* Alternatively, we can implement the hash table using a balanced binary search tree. This gives us an O(log N) lookup time. The advantage of this is potentially using less space, since we no longer allocate a large array. We can also iterate through the keys in order, which can be helpful sometimes.
 * Allows insertion, deletion and find in amortized **constant** time. In many cases better than a tree or other form of table.
 * Used in database indexing, cryptograpgy and caching.
 
