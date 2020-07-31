@@ -2,7 +2,7 @@
 ## Arrays
 Arrays are data structures that help store multiple values of same data type in a single variable. The disadvantages are:
 * The size of the array has to be given in advanced.
-* It is not possible to remove and insert elements in the array.
+* It is not possible to remove and insert elements in the array easily.
 
 To overcome these difficulties with a statistically allocated arrays, we use dynamic arrays. The STL has two implementations of dynamic arrays:
 * List
