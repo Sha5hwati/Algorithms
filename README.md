@@ -1,9 +1,10 @@
-- Arrays, Sorting, and Strings
-- Linked lists
+- Arrays & strings
+  - Sorting
+  - Sliding window
+  - Binary Search
+  - Linked lists
 - Stacks, Queues, Priority queue
 - Maps, hash tables, sets
-- Binary Search
-- Binary Search Tree
 - Tree traversal
   - Preorder traversal
   - Inorder traversal
@@ -11,6 +12,7 @@
   - Level Order traversal
   - DFS
   - Top-down/bottom-up
+  - Binary Search Tree
 - Graph traversal
   - DFS
   - BFS
