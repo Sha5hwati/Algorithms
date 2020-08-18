@@ -19,6 +19,8 @@
   - Union-Find
   - Topological sort
   - Tries
+  - Minimum Spanning Tree
+  - Dijkstra's Algorithm
 - Dynamic Programming
   - Kadane's algorithm
   - Knapsack problem
